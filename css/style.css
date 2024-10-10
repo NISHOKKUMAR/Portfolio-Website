@@ -8,6 +8,7 @@ body {
     padding: 0;
     background-color: black;
     color: white;
+    overflow-x: hidden;
 }
 a:hover{
     color: #e6f637;
@@ -106,7 +107,7 @@ ul li a{
 #content{
     height: 100vh;
     margin: 20px;
-    padding: 50px;
+    padding: 30px;
 }
 
 /* Home.php css */
